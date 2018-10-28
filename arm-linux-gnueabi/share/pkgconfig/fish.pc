@@ -1,0 +1,10 @@
+prefix=/usr/arm-linux-gnueabi
+datadir=/usr/arm-linux-gnueabi/share
+completionsdir=/usr/arm-linux-gnueabi/share/fish/vendor_completions.d
+functionsdir=/usr/arm-linux-gnueabi/share/fish/vendor_functions.d
+confdir=/usr/arm-linux-gnueabi/share/fish/vendor_conf.d
+
+Name: fish
+Description: fish, the friendly interactive shell
+URL: https://fishshell.com/
+Version: 2.7.1
