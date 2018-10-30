@@ -1,0 +1,10 @@
+prefix=/root/fish-shell/targets
+datadir=/root/fish-shell/targets/share
+completionsdir=/root/fish-shell/targets/share/fish/vendor_completions.d
+functionsdir=/root/fish-shell/targets/share/fish/vendor_functions.d
+confdir=/root/fish-shell/targets/share/fish/vendor_conf.d
+
+Name: fish
+Description: fish, the friendly interactive shell
+URL: https://fishshell.com/
+Version: 2.7.1
